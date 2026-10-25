@@ -60,11 +60,11 @@ Vibe Gaming Studio — **vibe.gaming.studio@gmail.com**
 
 ---
 
-# Политика конфиденциальности — «Мойка ковров 3D» (Rug Washing Simulator)
+# Политика конфиденциальности — «Симулятор мойки ковров» (Rug Washing Simulator)
 
 *Обновлено: 25 октября 2026 г.*
 
-Игру «Мойка ковров 3D» (Rug Washing Simulator) выпускает **Vibe Gaming Studio** («мы»).
+Игру «Симулятор мойки ковров» (Rug Washing Simulator) выпускает **Vibe Gaming Studio** («мы»).
 Здесь описано, какие данные использует игра и зачем.
 
 ## Кратко
